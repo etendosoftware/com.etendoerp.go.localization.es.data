@@ -9,7 +9,7 @@
 <!--E727AB0AF0924E719D425AF685AD28E1-->  <VERSION><![CDATA[1.0.0]]></VERSION>
 <!--E727AB0AF0924E719D425AF685AD28E1-->  <DESCRIPTION><![CDATA[System-level Spanish fiscal taxes dataset for Etendo Go. Provides c_tax, c_taxcategory, c_tax_zone and OBTL fiscal model structure at ad_client_id=0.]]></DESCRIPTION>
 <!--E727AB0AF0924E719D425AF685AD28E1-->  <HELP><![CDATA[]]></HELP>
-<!--E727AB0AF0924E719D425AF685AD28E1-->  <URL><![CDATA[https://github.com/etendosoftware/com.etendoerp.go]]></URL>
+<!--E727AB0AF0924E719D425AF685AD28E1-->  <URL><![CDATA[https://github.com/etendosoftware/com.etendoerp.go.localization.es.data]]></URL>
 <!--E727AB0AF0924E719D425AF685AD28E1-->  <TYPE><![CDATA[M]]></TYPE>
 <!--E727AB0AF0924E719D425AF685AD28E1-->  <JAVAPACKAGE><![CDATA[com.etendoerp.go.localization.es.data]]></JAVAPACKAGE>
 <!--E727AB0AF0924E719D425AF685AD28E1-->  <LICENSETYPE><![CDATA[ETENDO]]></LICENSETYPE>
