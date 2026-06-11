@@ -1,0 +1,53 @@
+/**
+*   This file was generated automatically by the 'createModuleBuild' task.
+*
+*   WARNING: Do not put your credentials directly in this file.
+*
+*/
+
+group          = "com.etendoerp"
+version        = "1.0.0"
+description    = "Spanish fiscal taxes system dataset for Etendo Go"
+ext.artifact   = "go.localization.es.data"
+ext.repository = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.go.localization.es.data"
+
+configurations {
+    moduleDependencyContainer
+}
+
+publishing {
+    publications {
+        "com.etendoerp.go.localization.es.data"(MavenPublication) {
+            from components.java
+            groupId    = group
+            artifactId = artifact
+            version    = version
+        }
+    }
+    repositories {
+        maven {
+            url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.go.localization.es.data"
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven {
+        url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.go.localization.es.data"
+    }
+    maven {
+        url = "https://repo.futit.cloud/repository/maven-releases"
+    }
+    maven {
+        url = "https://repo.futit.cloud/repository/maven-public-releases"
+    }
+    maven {
+        url = "https://repo.futit.cloud/repository/maven-public-jars"
+    }
+}
+
+dependencies {
+    implementation('com.etendoerp.platform:etendo-core:[26.0.0,)')
+    implementation('org.openbravo.module:taxreportlauncher:[3.0.0,)')
+}
