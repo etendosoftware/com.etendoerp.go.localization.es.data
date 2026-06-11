@@ -9,7 +9,7 @@ group          = "com.etendoerp"
 version        = "1.0.0"
 description    = "Spanish fiscal taxes system dataset for Etendo Go"
 ext.artifact   = "go.localization.es.data"
-ext.repository = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.go.localization.es.data"
+ext.repository = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.localization.spain.extensions"
 
 configurations {
     moduleDependencyContainer
@@ -26,7 +26,11 @@ publishing {
     }
     repositories {
         maven {
-            url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.go.localization.es.data"
+            url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.localization.spain.extensions"
+            credentials {
+                username = project.findProperty("githubUser") ?: ""
+                password = project.findProperty("githubToken") ?: ""
+            }
         }
     }
 }
@@ -34,7 +38,7 @@ publishing {
 repositories {
     mavenCentral()
     maven {
-        url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.go.localization.es.data"
+        url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.localization.spain.extensions"
     }
     maven {
         url = "https://repo.futit.cloud/repository/maven-releases"
