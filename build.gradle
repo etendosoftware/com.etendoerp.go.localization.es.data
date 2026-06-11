@@ -49,4 +49,5 @@ repositories {
 
 dependencies {
     implementation('com.etendoerp.platform:etendo-core:[26.0.0,)')
+    implementation('org.openbravo:module.taxreportlauncher:3.0.0')
 }
