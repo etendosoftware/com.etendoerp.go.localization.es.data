@@ -11471,61 +11471,7 @@
     <etvfacCauseNotTaxable xsi:nil="true"/>
     <etvfacVatRegime xsi:nil="true"/>
   </FinancialMgmtTaxRate>
-  <FinancialMgmtTaxRate id="867FFFAC82CC44069FE6497E4C5C6348" identifier="IVA Normal - Standard">
-    <id>867FFFAC82CC44069FE6497E4C5C6348</id>
-    <active>false</active>
-    <name>IVA Normal</name>
-    <description xsi:nil="true"/>
-    <taxSearchKey xsi:nil="true"/>
-    <validFromDate>9999-01-01T00:00:00.0Z</validFromDate>
-    <summaryLevel>false</summaryLevel>
-    <rate>21</rate>
-    <parentTaxRate xsi:nil="true"/>
-    <country id="106" entity-name="Country" identifier="Spain"/>
-    <region xsi:nil="true"/>
-    <destinationCountry xsi:nil="true"/>
-    <destinationRegion xsi:nil="true"/>
-    <taxCategory id="828E8E40DD3C4FA6A4F531569D26A6AF" entity-name="FinancialMgmtTaxCategory" identifier="Standard"/>
-    <default>false</default>
-    <taxExempt>false</taxExempt>
-    <salesPurchaseType>B</salesPurchaseType>
-    <cascade>false</cascade>
-    <lineNo>10</lineNo>
-    <withholdingTax>false</withholdingTax>
-    <notTaxable>false</notTaxable>
-    <deductableRate xsi:nil="true"/>
-    <originalRate xsi:nil="true"/>
-    <notTaxdeductable>false</notTaxdeductable>
-    <istaxdeductable>false</istaxdeductable>
-    <noVAT>false</noVAT>
-    <baseAmount>LNA</baseAmount>
-    <taxBase xsi:nil="true"/>
-    <docTaxAmount>D</docTaxAmount>
-    <isCashVAT>false</isCashVAT>
-    <oBSPTITaxBookType xsi:nil="true"/>
-    <oBSPTIReverseCharge>false</oBSPTIReverseCharge>
-    <oBSPTIEquivalentCharge>false</oBSPTIEquivalentCharge>
-    <oBSPTIIsintracommunity>false</oBSPTIIsintracommunity>
-    <obsptiIslease>false</obsptiIslease>
-    <obsptiIsrealestate>false</obsptiIsrealestate>
-    <obsptiReagyp>false</obsptiReagyp>
-    <obsptiIsrebu>false</obsptiIsrebu>
-    <obsptiIsexport>false</obsptiIsexport>
-    <obsptiIsimplicitcharge>false</obsptiIsimplicitcharge>
-    <obsptiReceiveOss xsi:nil="true"/>
-    <tbaiClaveregimeniva xsi:nil="true"/>
-    <aeatsiiIsprorate>false</aeatsiiIsprorate>
-    <tbaiNonsubjectcause xsi:nil="true"/>
-    <aeatsiiIsproratexml>true</aeatsiiIsproratexml>
-    <tBAICausaDeExencion xsi:nil="true"/>
-    <aeatsiiCauseExemption xsi:nil="true"/>
-    <etvfacIPSIRegime xsi:nil="true"/>
-    <etvfacIGICRegime xsi:nil="true"/>
-    <etvfacExemptionCause xsi:nil="true"/>
-    <etvfacCauseNotTaxable xsi:nil="true"/>
-    <etvfacVatRegime xsi:nil="true"/>
-  </FinancialMgmtTaxRate>
-    <FinancialMgmtTaxRate id="87707CFB30024C668AB5C89D9086C571" identifier="Servicios prestados nacional 21% -21%R (-21%) - IVA Normal Servicios">
+      <FinancialMgmtTaxRate id="87707CFB30024C668AB5C89D9086C571" identifier="Servicios prestados nacional 21% -21%R (-21%) - IVA Normal Servicios">
     <id>87707CFB30024C668AB5C89D9086C571</id>
     <active>true</active>
     <name>Servicios prestados nacional 21% -21%R (-21%)</name>
@@ -258065,17 +258011,7 @@
     <description>Prestación servicios nacional 21% -21%R</description>
     <taxSearchKey xsi:nil="true"/>
   </FinancialMgmtTaxTrl>
-  <FinancialMgmtTaxTrl id="0D43A8A3434540AC8EFCDBB53AD19B12" identifier="IVA Normal - Standard">
-    <id>0D43A8A3434540AC8EFCDBB53AD19B12</id>
-    <tax id="867FFFAC82CC44069FE6497E4C5C6348" entity-name="FinancialMgmtTaxRate" identifier="IVA Normal - Standard"/>
-    <language id="192" entity-name="ADLanguage" identifier="English (USA)"/>
-    <active>true</active>
-    <translation>false</translation>
-    <name>IVA Normal</name>
-    <description xsi:nil="true"/>
-    <taxSearchKey xsi:nil="true"/>
-  </FinancialMgmtTaxTrl>
-  <FinancialMgmtTaxTrl id="0DCA90C645D6430592523F6A2BDD9653" identifier="Servicios prestados nacional 21% -9%R - IVA Normal Servicios">
+    <FinancialMgmtTaxTrl id="0DCA90C645D6430592523F6A2BDD9653" identifier="Servicios prestados nacional 21% -9%R - IVA Normal Servicios">
     <id>0DCA90C645D6430592523F6A2BDD9653</id>
     <tax id="59E248CC4C2B417EB4865229EDAA667E" entity-name="FinancialMgmtTaxRate" identifier="Servicios prestados nacional 21% -9%R - IVA Normal Servicios"/>
     <language id="140" entity-name="ADLanguage" identifier="Spanish (Spain)"/>
@@ -260255,17 +260191,7 @@
     <description>Entregas no sujetas con dcho deducción</description>
     <taxSearchKey xsi:nil="true"/>
   </FinancialMgmtTaxTrl>
-  <FinancialMgmtTaxTrl id="A084883B41594925B76B786F5FC7F65C" identifier="IVA Normal - Standard">
-    <id>A084883B41594925B76B786F5FC7F65C</id>
-    <tax id="867FFFAC82CC44069FE6497E4C5C6348" entity-name="FinancialMgmtTaxRate" identifier="IVA Normal - Standard"/>
-    <language id="140" entity-name="ADLanguage" identifier="Spanish (Spain)"/>
-    <active>true</active>
-    <translation>false</translation>
-    <name>IVA Normal</name>
-    <description xsi:nil="true"/>
-    <taxSearchKey xsi:nil="true"/>
-  </FinancialMgmtTaxTrl>
-  <FinancialMgmtTaxTrl id="A228505030314010A5911F9D5DEA5308" identifier="Inversión Sujeto Pasivo no UE 21% -7%R - IVA Normal Servicios">
+    <FinancialMgmtTaxTrl id="A228505030314010A5911F9D5DEA5308" identifier="Inversión Sujeto Pasivo no UE 21% -7%R - IVA Normal Servicios">
     <id>A228505030314010A5911F9D5DEA5308</id>
     <tax id="116947E29FF644239283769FEC265354" entity-name="FinancialMgmtTaxRate" identifier="Inversión Sujeto Pasivo no UE 21% -7%R - IVA Normal Servicios"/>
     <language id="140" entity-name="ADLanguage" identifier="Spanish (Spain)"/>
