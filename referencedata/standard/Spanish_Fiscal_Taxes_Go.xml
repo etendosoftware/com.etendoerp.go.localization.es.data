@@ -212756,7 +212756,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="DB037DF38E67438D954537FE6F6EEC43" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2018: Último Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -213724,7 +213724,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="23FD033C11DA498180E7D2BF95C8132C" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2024: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -214296,7 +214296,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="C7263199E8334E3DBB64431C6CC854FC" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2019 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -214824,7 +214824,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="846698C27A75463C9482C8FA130F502E" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2016 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -218366,7 +218366,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="15E949BE2A2649359387BBDAB93B00D6" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2022: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -219686,7 +219686,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="06D31C77588346E38F56E49B698B2B81" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2014: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -221072,7 +221072,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="5A4535525E774B6CBDD409E1BEE017C5" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2017: Último Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -222568,7 +222568,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="D4A4B59C816C45DF97FC9A5018FF3A80" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2019: Último Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -224086,7 +224086,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="B939AFD265EE4F5D95F50407210C08C6" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2024 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -224240,7 +224240,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="6BED6FA0978A46B4B1144BB9BFB4DD2B" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2025: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -225340,7 +225340,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="C627BFD4707744FFA322B1934901C30B" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2014 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -227650,7 +227650,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="91AC6EE8E1914FBE8D0D8771CE180249" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2015 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -230202,7 +230202,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="B78B8201585C4C47B05D35A673F5DB1D" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2025 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -232292,7 +232292,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="4464E09BA17748238776FFEA597AF450" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2023: Ultimo Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -239464,7 +239464,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="40AC648DE97141FE93172FB5657A1211" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2020 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -242588,7 +242588,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="5F8846D4872A4B8D9E8358BF94875E75" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2023: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -244260,7 +244260,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="AB979B43588F4956AB288A55809FC627" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2023 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -250618,7 +250618,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="F050F1BD547B4E22B125DC9A6DDB336E" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2023 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -253390,7 +253390,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="405983EC6F3842B68AA40DE3D7829789" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2018: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -253654,7 +253654,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="14CE3564BDE449E4A18E1E75A9381115" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2019 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -253676,7 +253676,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="3FD48FC42D964D2DA831B22DCF99525C" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2017 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -254842,7 +254842,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="DD6B260097B040C3A32DCC2DAE2FCF04" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2015 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -256888,7 +256888,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="DC2D7C1EA7644A90B822B2322C4D0196" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2021 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -258120,7 +258120,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="8B16F9EB475946E79DF36711DBE05458" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2025 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -259616,7 +259616,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="AA3EE2E167C04C898615FC8756CE4CD2" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2020 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -260958,7 +260958,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="40F88A063DD24BFFAE693E0473B1BDD4" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2014: Último Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -263026,7 +263026,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="80AACEAA2B0B41A19E6951029CA9C6AD" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2016 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -263290,7 +263290,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="411A3E2F91ED49D8B500AB7F3B99FB84" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2026: Ultimo Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -263928,7 +263928,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="FC2059CDE8FC45A2A96616EA869898FC" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2025: Ultimo Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -271540,7 +271540,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="328FE667114C467EB759B9721A61962A" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2021: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -273014,7 +273014,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="294C11BBD1F1442F83C182DFDD194C00" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2026: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -274730,7 +274730,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="541EA9986DA74727AE249EC271BD1EA8" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2024: Ultimo Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -276270,7 +276270,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="8D13D840452545DC800EBFACAA2595DB" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2022 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -278404,7 +278404,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="106569EF5747464E9D152116B25A3295" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2022: Ultimo Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -278756,7 +278756,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="FBEC1623447D479C8769F58E89214B83" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2026 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -281000,7 +281000,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="4AD96434EB0E4EC18DE1F08B18CCCD24" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2021 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -281924,7 +281924,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="A0BCBC98CC4540A5BCA3D1D00842C169" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2021: Ultimo Periodo - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -285202,7 +285202,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="20E27F625A204E179502347FDB45AB81" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2014 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -287028,7 +287028,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="2F3EC0394F744271B80AFEC8DE45C381" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2017: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -290350,7 +290350,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="DEF2EC50F5DF4405A33143CF7C0AB879" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2024 - Autoliquidación Mensual del IVA para Octubre y Noviembre - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -290548,7 +290548,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="EAA817583D244192BFA92DF937F1F00B" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2022 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -291956,7 +291956,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="D187300951514E64B623ED37209E27D2" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2019: Último Periodo - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -299766,7 +299766,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="9ACEEE73E6BE4118B049FC4355AC7656" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2024 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -300360,7 +300360,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="7C30798450CC45D793F30856E9CBDEE7" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2017 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -303220,7 +303220,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="AFC8196570884B06994EF3293C8E00A5" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2018 - Autoliquidación Trimestral del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -308588,7 +308588,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="B994D58C0F32465A9D0ABB8504D04C02" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2018 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
@@ -311272,7 +311272,7 @@
     <type>C</type>
     <inputtype xsi:nil="true"/>
     <description xsi:nil="true"/>
-    <constantValue>B31733934</constantValue>
+    <constantValue>B75117705</constantValue>
     <taxReportGroup id="2D649150BD834C64B7AA690D15843AC5" entity-name="OBTL_Tax_Report_Group" identifier="Modelo 303 2026 - Autoliquidación Mensual del IVA - Constantes"/>
     <tributaryKey xsi:nil="true"/>
     <tributarySubkey xsi:nil="true"/>
