@@ -6,7 +6,7 @@
 */
 
 group          = "com.etendoerp"
-version        = "1.0.0"
+version        = "1.1.0"
 description    = "Spanish fiscal taxes system dataset for Etendo Go"
 ext.artifact   = "go.localization.es.data"
 ext.repository = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.localization.spain.extensions"
@@ -54,4 +54,5 @@ repositories {
 dependencies {
     implementation('com.etendoerp.platform:etendo-core:[26.0.0,)')
     implementation('org.openbravo:module.taxreportlauncher:[3.0.0,)')
+    implementation('org.openbravo:module.aeat390.es:[5.0.0,)')
 }
