@@ -157,7 +157,7 @@
   </FinancialMgmtTaxCategory>
   <FinancialMgmtTaxCategory id="828E8E40DD3C4FA6A4F531569D26A6AF" identifier="Standard">
     <id>828E8E40DD3C4FA6A4F531569D26A6AF</id>
-    <active>true</active>
+    <active>false</active>
     <name>OLD IVA Normal</name>
     <description xsi:nil="true"/>
     <default>false</default>
