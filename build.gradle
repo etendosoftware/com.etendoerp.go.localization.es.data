@@ -6,7 +6,7 @@
 */
 
 group          = "com.etendoerp"
-version        = "1.0.0"
+version        = "1.1.1"
 description    = "Spanish fiscal taxes system dataset for Etendo Go"
 ext.artifact   = "go.localization.es.data"
 ext.repository = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.localization.spain.extensions"
