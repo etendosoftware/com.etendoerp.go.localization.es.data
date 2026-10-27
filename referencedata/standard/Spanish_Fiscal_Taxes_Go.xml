@@ -12343,7 +12343,7 @@
     <taxSearchKey xsi:nil="true"/>
     <validFromDate>2024-10-01T00:00:00.0Z</validFromDate>
     <summaryLevel>false</summaryLevel>
-    <rate>10</rate>
+    <rate>2</rate>
     <parentTaxRate id="8AFF22BBB68C46F7B48F82CC57A77295" entity-name="FinancialMgmtTaxRate" identifier="Adquisiciones intracomunitarias 2% - IVA Super Reducido 2%"/>
     <country id="102" entity-name="Country" identifier="France"/>
     <region xsi:nil="true"/>
